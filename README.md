@@ -4,7 +4,8 @@ Some mods I have modeled in fusion for Eddie's Voron Tridex franken-printer. For
 # What's what? 
 
 ## AB Drives with Dual Y Endstops
-#### I did not make these from scratch, I had simply gone to town with project/include/extrude using Telxoid's model on Eddie's AB Drives: https://github.com/telxoid/Voron_IDEX_Mods/tree/main/CAD
+![AB_Drives](https://github.com/ExaltedStudios/Voron-Tridex-Mods---Idex/blob/main/Images/Tridex_AB_Idlers_-_Y_switch.jpg?raw=false)
+#### I did not make these from scratch, I had simply used project/include/extrude on Telxoid's model using Eddie's AB Drives as the base: https://github.com/telxoid/Voron_IDEX_Mods/tree/main/CAD
 
 ## Smol Filters:
 ![Front Idlers](https://github.com/ExaltedStudios/Voron-Tridex-Mods---Idex/blob/main/Images/SmolFilter2.png?raw=false)
