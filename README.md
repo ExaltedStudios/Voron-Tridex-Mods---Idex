@@ -27,5 +27,5 @@ Because why not make a tall version if you're making a wide version? This would 
 
 
 #### Disclaimer: 
-##### As a warning, there is not always a clear purpose to the mods I do. Sometimes I just get overly curious and make something. If you have any questions, feel free to reach out. 
+##### As a warning, there is not always a clear purpose to the mods I do. Sometimes I just get overly curious and make something. Part of the reason I am uploading these at all is to learn how Github a bit more. If you have any questions, feel free to reach out. 
 
