@@ -4,9 +4,13 @@ Some mods I have modeled in fusion for Eddie's Voron Tridex franken-printer. For
 # What's what? 
 
 ## Smol Filters:
-They're like the stock Voron Trident filter, just small. You will need to keep in mind that these require two slots in your panel. Not a problem if this is your first time cutting. They are built directly from the stock model. 
+![Front Idlers](https://github.com/ExaltedStudios/Voron-Tridex-Mods---Idex/blob/main/Images/SmolFilter2.png?raw=false)
+
+Just like the stock Voron Trident filter, just small. You will need to keep in mind that these require two slots in your panel. Not a problem if this is your first time cutting. They are built directly from the stock model. You can cut the existing trident BOM filters to fit.
 
 ## Front Idlers:
+### PLEASE NOTE: I used Eddie's base model for this design, and did not realize the nubs were missing from one of the idlers. I've fixed them just need to get everything reuploaded. 
+
 ![Front Idlers](https://github.com/ExaltedStudios/Voron-Tridex-Mods---Idex/blob/main/Images/Tall_n_Wide.jpg?raw=false)
 
 ### Wide Front Idlers:
