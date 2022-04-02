@@ -1,7 +1,7 @@
 # Voron-Tridex-Mods---Idex
 Some mods I have modeled in fusion for Eddie's Voron Tridex franken-printer. For more details, I recommend checking it out here: https://github.com/FrankenVoron/Tridex
 
-## WELCOME TO THE WORLD OF AN UNFINISHED PROJECT! All files posted are now out of date due to the new AB Drives being posted by Eddie in discord. I'll reupload as time passes.
+## WELCOME TO THE WORLD OF AN UNFINISHED PROJECT! Most files posted are now out of date due to the new AB Drives being posted by Eddie in discord. I'll reupload as time passes.
 
 # What's what? 
 
