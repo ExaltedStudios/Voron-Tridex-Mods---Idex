@@ -33,3 +33,4 @@ Because why not make a tall version if you're making a wide version? This would 
 #### Disclaimer: 
 ##### As a warning, there is not always a clear purpose to the mods I do. Sometimes I just get overly curious and make something. Part of the reason I am uploading these at all is to learn how Github a bit more. If you have any questions, feel free to reach out. 
 
+It seems implied due to the nature of Tridex itself, but the team behind the original CAD and parts is: vorondesign.com
