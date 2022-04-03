@@ -3,6 +3,9 @@ Some mods I have modeled in fusion for Eddie's Voron Tridex franken-printer. For
 
 # What's what? 
 
+## Multicolored Tridex Front Skirts
+![Skirts_Close](https://github.com/ExaltedStudios/Voron-Tridex-Mods---Idex/blob/main/Images/Tridex_Multicolored_Skirts_1.jpg?raw=false)
+
 ## AB Drives with Dual Y Endstops
 ![AB_Drives_Top](https://github.com/ExaltedStudios/Voron-Tridex-Mods---Idex/blob/main/Images/Tridex_AB_Idlers_-_Y_switch1.jpg?raw=false)
 ![AB_Drives_Bottom](https://github.com/ExaltedStudios/Voron-Tridex-Mods---Idex/blob/main/Images/Tridex_AB_Idlers_-_Y_switch2.jpg?raw=false)
