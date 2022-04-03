@@ -1,13 +1,12 @@
 # Voron-Tridex-Mods---Idex
 Some mods I have modeled in fusion for Eddie's Voron Tridex franken-printer. For more details, I recommend checking it out here: https://github.com/FrankenVoron/Tridex
 
-## WELCOME TO THE WORLD OF AN UNFINISHED PROJECT! Most files posted are now out of date due to the new AB Drives being posted by Eddie in discord. I'll reupload as time passes.
-
 # What's what? 
 
 ## AB Drives with Dual Y Endstops
-![AB_Drives](https://github.com/ExaltedStudios/Voron-Tridex-Mods---Idex/blob/main/Images/Tridex_AB_Idlers_-_Y_switch.jpg?raw=false)
-#### I did not make these from scratch, I had simply used project/include/extrude on Telxoid's model using Eddie's AB Drives as the base: https://github.com/telxoid/Voron_IDEX_Mods/tree/main/CAD
+![AB_Drives_Top](https://github.com/ExaltedStudios/Voron-Tridex-Mods---Idex/blob/main/Images/Tridex_AB_Idlers_-_Y_switch1.jpg?raw=false)
+![AB_Drives_Bottom](https://github.com/ExaltedStudios/Voron-Tridex-Mods---Idex/blob/main/Images/Tridex_AB_Idlers_-_Y_switch2.jpg?raw=false)
+#### These are up to date and do not need supports to be printed. Enjoy. Both single color and multi colored STLs are available. To split the mulit-colored STLs, 'split to parts' in Superslicer. 
 
 ## Smol Filters:
 ![Front Idlers](https://github.com/ExaltedStudios/Voron-Tridex-Mods---Idex/blob/main/Images/SmolFilter2.png?raw=false)
